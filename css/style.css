@@ -54,9 +54,11 @@ img {
 }
 /*---------------*/
 
+/*----- Общие стили для body -----*/
 .page {
   font-family: "Suisse BP Intl", sans-serif;
 }
+/*---------------*/
 
 /*----- HEADER -----*/
 .header {
